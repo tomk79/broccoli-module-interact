@@ -1,0 +1,411 @@
+{
+    "bowl": {
+        "main": {
+            "modId": "_sys/root",
+            "fields": {
+                "main": [
+                    {
+                        "modId": "pickles2:interactives/carousel",
+                        "fields": {
+                            "loop": [
+                                {
+                                    "modId": "pickles2:interactives/carousel",
+                                    "fields": {
+                                        "href": "",
+                                        "target": "",
+                                        "image_src": {
+                                            "resKey": "43bd5827b6f5eb8ab0961da68fa56304",
+                                            "path": "./index_files/resources/photo008.jpg",
+                                            "resType": "",
+                                            "webUrl": ""
+                                        },
+                                        "alt_text": ""
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                },
+                                {
+                                    "modId": "pickles2:interactives/carousel",
+                                    "fields": {
+                                        "href": "",
+                                        "target": "",
+                                        "image_src": {
+                                            "resKey": "afe34da4d42217799af826c780e6f95c",
+                                            "path": "./index_files/resources/photo009-800x600px-png8.png",
+                                            "resType": "",
+                                            "webUrl": ""
+                                        },
+                                        "alt_text": ""
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                },
+                                {
+                                    "modId": "pickles2:interactives/carousel",
+                                    "fields": {
+                                        "href": "",
+                                        "target": "",
+                                        "image_src": {
+                                            "resKey": "a4747d4f047db5b8948e416ac996a91f",
+                                            "path": "./index_files/resources/photo010.jpg",
+                                            "resType": "",
+                                            "webUrl": ""
+                                        },
+                                        "alt_text": ""
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "modId": "pickles2:interactives/accordion",
+                        "fields": {
+                            "loop": [
+                                {
+                                    "modId": "pickles2:interactives/accordion",
+                                    "fields": {
+                                        "accordion-label": "アコーディオンサンプル1",
+                                        "main": [
+                                            {
+                                                "modId": "pickles2:basics/text",
+                                                "fields": {
+                                                    "main": {
+                                                        "src": "アコーディオン その1。\n",
+                                                        "editor": "markdown"
+                                                    }
+                                                },
+                                                "anchor": "",
+                                                "dec": ""
+                                            }
+                                        ]
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                },
+                                {
+                                    "modId": "pickles2:interactives/accordion",
+                                    "fields": {
+                                        "accordion-label": "アコーディオンサンプル2",
+                                        "main": [
+                                            {
+                                                "modId": "pickles2:basics/text",
+                                                "fields": {
+                                                    "main": {
+                                                        "src": "アコーディオン その2。\n",
+                                                        "editor": "markdown"
+                                                    }
+                                                },
+                                                "anchor": "",
+                                                "dec": ""
+                                            }
+                                        ]
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                },
+                                {
+                                    "modId": "pickles2:interactives/accordion",
+                                    "fields": {
+                                        "accordion-label": "アコーディオンサンプル3",
+                                        "main": [
+                                            {
+                                                "modId": "pickles2:basics/text",
+                                                "fields": {
+                                                    "main": {
+                                                        "src": "アコーディオン その3。\n",
+                                                        "editor": "markdown"
+                                                    }
+                                                },
+                                                "anchor": "",
+                                                "dec": ""
+                                            },
+                                            {
+                                                "modId": "pickles2:interactives/accordion",
+                                                "fields": {
+                                                    "loop": [
+                                                        {
+                                                            "modId": "pickles2:interactives/accordion",
+                                                            "fields": {
+                                                                "accordion-label": "アコーディオンサンプル1",
+                                                                "main": [
+                                                                    {
+                                                                        "modId": "pickles2:basics/text",
+                                                                        "fields": {
+                                                                            "main": {
+                                                                                "src": "アコーディオン その1。\n",
+                                                                                "editor": "markdown"
+                                                                            }
+                                                                        },
+                                                                        "anchor": "",
+                                                                        "dec": ""
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "subModName": "loop",
+                                                            "anchor": "",
+                                                            "dec": ""
+                                                        },
+                                                        {
+                                                            "modId": "pickles2:interactives/accordion",
+                                                            "fields": {
+                                                                "accordion-label": "アコーディオンサンプル2",
+                                                                "main": [
+                                                                    {
+                                                                        "modId": "pickles2:basics/text",
+                                                                        "fields": {
+                                                                            "main": {
+                                                                                "src": "アコーディオン その2。\n",
+                                                                                "editor": "markdown"
+                                                                            }
+                                                                        },
+                                                                        "anchor": "",
+                                                                        "dec": ""
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "subModName": "loop",
+                                                            "anchor": "",
+                                                            "dec": ""
+                                                        },
+                                                        {
+                                                            "modId": "pickles2:interactives/accordion",
+                                                            "fields": {
+                                                                "accordion-label": "アコーディオンサンプル3",
+                                                                "main": [
+                                                                    {
+                                                                        "modId": "pickles2:basics/text",
+                                                                        "fields": {
+                                                                            "main": {
+                                                                                "src": "アコーディオン その3。\n",
+                                                                                "editor": "markdown"
+                                                                            }
+                                                                        },
+                                                                        "anchor": "",
+                                                                        "dec": ""
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "subModName": "loop",
+                                                            "anchor": "",
+                                                            "dec": ""
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "modId": "pickles2:interactives/tabs",
+                        "fields": {
+                            "loop": [
+                                {
+                                    "modId": "pickles2:interactives/tabs",
+                                    "fields": {
+                                        "tab-label": "タブ1",
+                                        "main": [
+                                            {
+                                                "modId": "pickles2:basics/text",
+                                                "fields": {
+                                                    "main": {
+                                                        "src": "タブ1。\n",
+                                                        "editor": "markdown"
+                                                    }
+                                                },
+                                                "anchor": "",
+                                                "dec": ""
+                                            }
+                                        ]
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                },
+                                {
+                                    "modId": "pickles2:interactives/tabs",
+                                    "fields": {
+                                        "tab-label": "タブ2",
+                                        "main": [
+                                            {
+                                                "modId": "pickles2:basics/text",
+                                                "fields": {
+                                                    "main": {
+                                                        "src": "タブ2。\n",
+                                                        "editor": "markdown"
+                                                    }
+                                                },
+                                                "anchor": "",
+                                                "dec": ""
+                                            }
+                                        ]
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                },
+                                {
+                                    "modId": "pickles2:interactives/tabs",
+                                    "fields": {
+                                        "tab-label": "タブ3",
+                                        "main": [
+                                            {
+                                                "modId": "pickles2:basics/text",
+                                                "fields": {
+                                                    "main": {
+                                                        "src": "タブ3。\n",
+                                                        "editor": "markdown"
+                                                    }
+                                                },
+                                                "anchor": "",
+                                                "dec": ""
+                                            }
+                                        ]
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                },
+                                {
+                                    "modId": "pickles2:interactives/tabs",
+                                    "fields": {
+                                        "tab-label": "タブ4",
+                                        "main": [
+                                            {
+                                                "modId": "pickles2:basics/text",
+                                                "fields": {
+                                                    "main": {
+                                                        "src": "タブ4。\n",
+                                                        "editor": "markdown"
+                                                    }
+                                                },
+                                                "anchor": "",
+                                                "dec": ""
+                                            },
+                                            {
+                                                "modId": "pickles2:interactives/tabs",
+                                                "fields": {
+                                                    "loop": [
+                                                        {
+                                                            "modId": "pickles2:interactives/tabs",
+                                                            "fields": {
+                                                                "tab-label": "タブ1",
+                                                                "main": [
+                                                                    {
+                                                                        "modId": "pickles2:basics/text",
+                                                                        "fields": {
+                                                                            "main": {
+                                                                                "src": "タブ1。\n",
+                                                                                "editor": "markdown"
+                                                                            }
+                                                                        },
+                                                                        "anchor": "",
+                                                                        "dec": ""
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "subModName": "loop",
+                                                            "anchor": "",
+                                                            "dec": ""
+                                                        },
+                                                        {
+                                                            "modId": "pickles2:interactives/tabs",
+                                                            "fields": {
+                                                                "tab-label": "タブ2",
+                                                                "main": [
+                                                                    {
+                                                                        "modId": "pickles2:basics/text",
+                                                                        "fields": {
+                                                                            "main": {
+                                                                                "src": "タブ2。\n",
+                                                                                "editor": "markdown"
+                                                                            }
+                                                                        },
+                                                                        "anchor": "",
+                                                                        "dec": ""
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "subModName": "loop",
+                                                            "anchor": "",
+                                                            "dec": ""
+                                                        },
+                                                        {
+                                                            "modId": "pickles2:interactives/tabs",
+                                                            "fields": {
+                                                                "tab-label": "タブ3",
+                                                                "main": [
+                                                                    {
+                                                                        "modId": "pickles2:basics/text",
+                                                                        "fields": {
+                                                                            "main": {
+                                                                                "src": "タブ3。\n",
+                                                                                "editor": "markdown"
+                                                                            }
+                                                                        },
+                                                                        "anchor": "",
+                                                                        "dec": ""
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "subModName": "loop",
+                                                            "anchor": "",
+                                                            "dec": ""
+                                                        },
+                                                        {
+                                                            "modId": "pickles2:interactives/tabs",
+                                                            "fields": {
+                                                                "tab-label": "タブ4",
+                                                                "main": [
+                                                                    {
+                                                                        "modId": "pickles2:basics/text",
+                                                                        "fields": {
+                                                                            "main": {
+                                                                                "src": "タブ4。\n",
+                                                                                "editor": "markdown"
+                                                                            }
+                                                                        },
+                                                                        "anchor": "",
+                                                                        "dec": ""
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "subModName": "loop",
+                                                            "anchor": "",
+                                                            "dec": ""
+                                                        }
+                                                    ]
+                                                },
+                                                "anchor": "",
+                                                "dec": ""
+                                            }
+                                        ]
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                }
+                            ]
+                        },
+                        "anchor": "",
+                        "dec": ""
+                    }
+                ]
+            },
+            "anchor": "",
+            "dec": ""
+        }
+    }
+}
