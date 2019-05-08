@@ -1,6 +1,6 @@
 # Broccoli Module: Interact
 
-### tomk79/broccoli-module-interact v0.0.1 (リリース日未定)
+### tomk79/broccoli-module-interact v0.0.1 (2019年5月8日)
 
 - Initial release.
 
