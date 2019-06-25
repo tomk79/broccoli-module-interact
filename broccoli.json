@@ -1,4 +1,5 @@
 {
+    "id": "interact",
     "name": "Interactive Modules",
     "type": "module",
     "path": "modules/"
