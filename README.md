@@ -1,6 +1,6 @@
 # Broccoli Module: Interact
 
-### tomk79/broccoli-module-interact v0.0.2 (リリース日未定)
+### tomk79/broccoli-module-interact v0.0.2 (2019年7月9日)
 
 - モジュールセットにデフォルトのID `interact` を与えた。
 
