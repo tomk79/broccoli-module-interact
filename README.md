@@ -1,5 +1,9 @@
 # Broccoli Module: Interact
 
+### tomk79/broccoli-module-interact v0.1.0 (リリース日未定)
+
+- 各モジュールにアイコンを追加。
+
 ### tomk79/broccoli-module-interact v0.0.2 (2019年7月9日)
 
 - モジュールセットにデフォルトのID `interact` を与えた。

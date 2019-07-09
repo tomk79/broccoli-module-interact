@@ -5,11 +5,11 @@
             "fields": {
                 "main": [
                     {
-                        "modId": "pickles2:interactives/carousel",
+                        "modId": "medias:interactives/carousel",
                         "fields": {
                             "loop": [
                                 {
-                                    "modId": "pickles2:interactives/carousel",
+                                    "modId": "medias:interactives/carousel",
                                     "fields": {
                                         "href": "",
                                         "target": "",
@@ -26,7 +26,7 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "pickles2:interactives/carousel",
+                                    "modId": "medias:interactives/carousel",
                                     "fields": {
                                         "href": "",
                                         "target": "",
@@ -43,7 +43,7 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "pickles2:interactives/carousel",
+                                    "modId": "medias:interactives/carousel",
                                     "fields": {
                                         "href": "",
                                         "target": "",
@@ -63,16 +63,16 @@
                         }
                     },
                     {
-                        "modId": "pickles2:interactives/accordion",
+                        "modId": "medias:interactives/accordion",
                         "fields": {
                             "loop": [
                                 {
-                                    "modId": "pickles2:interactives/accordion",
+                                    "modId": "medias:interactives/accordion",
                                     "fields": {
                                         "accordion-label": "アコーディオンサンプル1",
                                         "main": [
                                             {
-                                                "modId": "pickles2:basics/text",
+                                                "modId": "std-document:basics/text",
                                                 "fields": {
                                                     "main": {
                                                         "src": "アコーディオン その1。\n",
@@ -89,12 +89,12 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "pickles2:interactives/accordion",
+                                    "modId": "medias:interactives/accordion",
                                     "fields": {
                                         "accordion-label": "アコーディオンサンプル2",
                                         "main": [
                                             {
-                                                "modId": "pickles2:basics/text",
+                                                "modId": "std-document:basics/text",
                                                 "fields": {
                                                     "main": {
                                                         "src": "アコーディオン その2。\n",
@@ -111,12 +111,12 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "pickles2:interactives/accordion",
+                                    "modId": "medias:interactives/accordion",
                                     "fields": {
                                         "accordion-label": "アコーディオンサンプル3",
                                         "main": [
                                             {
-                                                "modId": "pickles2:basics/text",
+                                                "modId": "std-document:basics/text",
                                                 "fields": {
                                                     "main": {
                                                         "src": "アコーディオン その3。\n",
@@ -127,16 +127,16 @@
                                                 "dec": ""
                                             },
                                             {
-                                                "modId": "pickles2:interactives/accordion",
+                                                "modId": "medias:interactives/accordion",
                                                 "fields": {
                                                     "loop": [
                                                         {
-                                                            "modId": "pickles2:interactives/accordion",
+                                                            "modId": "medias:interactives/accordion",
                                                             "fields": {
                                                                 "accordion-label": "アコーディオンサンプル1",
                                                                 "main": [
                                                                     {
-                                                                        "modId": "pickles2:basics/text",
+                                                                        "modId": "std-document:basics/text",
                                                                         "fields": {
                                                                             "main": {
                                                                                 "src": "アコーディオン その1。\n",
@@ -153,12 +153,12 @@
                                                             "dec": ""
                                                         },
                                                         {
-                                                            "modId": "pickles2:interactives/accordion",
+                                                            "modId": "medias:interactives/accordion",
                                                             "fields": {
                                                                 "accordion-label": "アコーディオンサンプル2",
                                                                 "main": [
                                                                     {
-                                                                        "modId": "pickles2:basics/text",
+                                                                        "modId": "std-document:basics/text",
                                                                         "fields": {
                                                                             "main": {
                                                                                 "src": "アコーディオン その2。\n",
@@ -175,12 +175,12 @@
                                                             "dec": ""
                                                         },
                                                         {
-                                                            "modId": "pickles2:interactives/accordion",
+                                                            "modId": "medias:interactives/accordion",
                                                             "fields": {
                                                                 "accordion-label": "アコーディオンサンプル3",
                                                                 "main": [
                                                                     {
-                                                                        "modId": "pickles2:basics/text",
+                                                                        "modId": "std-document:basics/text",
                                                                         "fields": {
                                                                             "main": {
                                                                                 "src": "アコーディオン その3。\n",
@@ -209,16 +209,16 @@
                         }
                     },
                     {
-                        "modId": "pickles2:interactives/tabs",
+                        "modId": "medias:interactives/tabs",
                         "fields": {
                             "loop": [
                                 {
-                                    "modId": "pickles2:interactives/tabs",
+                                    "modId": "medias:interactives/tabs",
                                     "fields": {
                                         "tab-label": "タブ1",
                                         "main": [
                                             {
-                                                "modId": "pickles2:basics/text",
+                                                "modId": "std-document:basics/text",
                                                 "fields": {
                                                     "main": {
                                                         "src": "タブ1。\n",
@@ -235,12 +235,12 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "pickles2:interactives/tabs",
+                                    "modId": "medias:interactives/tabs",
                                     "fields": {
                                         "tab-label": "タブ2",
                                         "main": [
                                             {
-                                                "modId": "pickles2:basics/text",
+                                                "modId": "std-document:basics/text",
                                                 "fields": {
                                                     "main": {
                                                         "src": "タブ2。\n",
@@ -257,12 +257,12 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "pickles2:interactives/tabs",
+                                    "modId": "medias:interactives/tabs",
                                     "fields": {
                                         "tab-label": "タブ3",
                                         "main": [
                                             {
-                                                "modId": "pickles2:basics/text",
+                                                "modId": "std-document:basics/text",
                                                 "fields": {
                                                     "main": {
                                                         "src": "タブ3。\n",
@@ -279,12 +279,12 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "pickles2:interactives/tabs",
+                                    "modId": "medias:interactives/tabs",
                                     "fields": {
                                         "tab-label": "タブ4",
                                         "main": [
                                             {
-                                                "modId": "pickles2:basics/text",
+                                                "modId": "std-document:basics/text",
                                                 "fields": {
                                                     "main": {
                                                         "src": "タブ4。\n",
@@ -295,16 +295,16 @@
                                                 "dec": ""
                                             },
                                             {
-                                                "modId": "pickles2:interactives/tabs",
+                                                "modId": "medias:interactives/tabs",
                                                 "fields": {
                                                     "loop": [
                                                         {
-                                                            "modId": "pickles2:interactives/tabs",
+                                                            "modId": "medias:interactives/tabs",
                                                             "fields": {
                                                                 "tab-label": "タブ1",
                                                                 "main": [
                                                                     {
-                                                                        "modId": "pickles2:basics/text",
+                                                                        "modId": "std-document:basics/text",
                                                                         "fields": {
                                                                             "main": {
                                                                                 "src": "タブ1。\n",
@@ -321,12 +321,12 @@
                                                             "dec": ""
                                                         },
                                                         {
-                                                            "modId": "pickles2:interactives/tabs",
+                                                            "modId": "medias:interactives/tabs",
                                                             "fields": {
                                                                 "tab-label": "タブ2",
                                                                 "main": [
                                                                     {
-                                                                        "modId": "pickles2:basics/text",
+                                                                        "modId": "std-document:basics/text",
                                                                         "fields": {
                                                                             "main": {
                                                                                 "src": "タブ2。\n",
@@ -343,12 +343,12 @@
                                                             "dec": ""
                                                         },
                                                         {
-                                                            "modId": "pickles2:interactives/tabs",
+                                                            "modId": "medias:interactives/tabs",
                                                             "fields": {
                                                                 "tab-label": "タブ3",
                                                                 "main": [
                                                                     {
-                                                                        "modId": "pickles2:basics/text",
+                                                                        "modId": "std-document:basics/text",
                                                                         "fields": {
                                                                             "main": {
                                                                                 "src": "タブ3。\n",
@@ -365,12 +365,12 @@
                                                             "dec": ""
                                                         },
                                                         {
-                                                            "modId": "pickles2:interactives/tabs",
+                                                            "modId": "medias:interactives/tabs",
                                                             "fields": {
                                                                 "tab-label": "タブ4",
                                                                 "main": [
                                                                     {
-                                                                        "modId": "pickles2:basics/text",
+                                                                        "modId": "std-document:basics/text",
                                                                         "fields": {
                                                                             "main": {
                                                                                 "src": "タブ4。\n",
