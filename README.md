@@ -1,5 +1,9 @@
 # Broccoli Module: Interact
 
+### tomk79/broccoli-module-interact v0.1.1 (リリース日未定)
+
+- モジュールの上端に、わずかにスペースを開けるようにしたことで、上へのドロップがしやすくなった。
+
 ### tomk79/broccoli-module-interact v0.1.0 (2019年7月10日)
 
 - 各モジュールにアイコンとREADMEを追加。
