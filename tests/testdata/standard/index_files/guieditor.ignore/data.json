@@ -401,6 +401,177 @@
                         },
                         "anchor": "",
                         "dec": ""
+                    },
+                    {
+                        "modId": "std-document:basics/text",
+                        "fields": {
+                            "main": {
+                                "src": "## 1つのコンテンツ内に複数配置する\n",
+                                "editor": "markdown"
+                            }
+                        },
+                        "anchor": "",
+                        "dec": ""
+                    },
+                    {
+                        "modId": "medias:interactives/carousel",
+                        "fields": {
+                            "loop": [
+                                {
+                                    "modId": "medias:interactives/carousel",
+                                    "fields": {
+                                        "href": "",
+                                        "target": "",
+                                        "image_src": {
+                                            "resKey": "a0abad7fb6c649149e81ce35e5cd88fb",
+                                            "path": "./index_files/resources/photo004.jpg",
+                                            "resType": "",
+                                            "webUrl": ""
+                                        },
+                                        "alt_text": ""
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                },
+                                {
+                                    "modId": "medias:interactives/carousel",
+                                    "fields": {
+                                        "href": "",
+                                        "target": "",
+                                        "image_src": {
+                                            "resKey": "579838ddc1efff2618ab7c6f1f6e545a",
+                                            "path": "./index_files/resources/photo006.jpg",
+                                            "resType": "",
+                                            "webUrl": ""
+                                        },
+                                        "alt_text": ""
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                },
+                                {
+                                    "modId": "medias:interactives/carousel",
+                                    "fields": {
+                                        "href": "",
+                                        "target": "",
+                                        "image_src": {
+                                            "resKey": "3ac3b4b280b75334ad4653e6baa718a9",
+                                            "path": "./index_files/resources/photo001.jpg",
+                                            "resType": "",
+                                            "webUrl": ""
+                                        },
+                                        "alt_text": ""
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "modId": "medias:interactives/accordion",
+                        "fields": {
+                            "loop": [
+                                {
+                                    "modId": "medias:interactives/accordion",
+                                    "fields": {
+                                        "accordion-label": "アコーディオン 2-1",
+                                        "main": [
+                                            {
+                                                "modId": "std-document:basics/text",
+                                                "fields": {
+                                                    "main": {
+                                                        "src": "アコーディオン 2-1\n",
+                                                        "editor": "markdown"
+                                                    }
+                                                },
+                                                "anchor": "",
+                                                "dec": ""
+                                            }
+                                        ]
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                },
+                                {
+                                    "modId": "medias:interactives/accordion",
+                                    "fields": {
+                                        "accordion-label": "アコーディオン 2-2",
+                                        "main": [
+                                            {
+                                                "modId": "std-document:basics/text",
+                                                "fields": {
+                                                    "main": {
+                                                        "src": "アコーディオン 2-2\n",
+                                                        "editor": "markdown"
+                                                    }
+                                                },
+                                                "anchor": "",
+                                                "dec": ""
+                                            }
+                                        ]
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "modId": "medias:interactives/tabs",
+                        "fields": {
+                            "loop": [
+                                {
+                                    "modId": "medias:interactives/tabs",
+                                    "fields": {
+                                        "tab-label": "タブ 2-1",
+                                        "main": [
+                                            {
+                                                "modId": "std-document:basics/text",
+                                                "fields": {
+                                                    "main": {
+                                                        "src": "タブ 2-1\n",
+                                                        "editor": "markdown"
+                                                    }
+                                                },
+                                                "anchor": "",
+                                                "dec": ""
+                                            }
+                                        ]
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                },
+                                {
+                                    "modId": "medias:interactives/tabs",
+                                    "fields": {
+                                        "tab-label": "タブ 2-2",
+                                        "main": [
+                                            {
+                                                "modId": "std-document:basics/text",
+                                                "fields": {
+                                                    "main": {
+                                                        "src": "タブ 2-2\n",
+                                                        "editor": "markdown"
+                                                    }
+                                                },
+                                                "anchor": "",
+                                                "dec": ""
+                                            }
+                                        ]
+                                    },
+                                    "subModName": "loop",
+                                    "anchor": "",
+                                    "dec": ""
+                                }
+                            ]
+                        }
                     }
                 ]
             },
