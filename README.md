@@ -1,6 +1,6 @@
 # Broccoli Module: Interact
 
-### tomk79/broccoli-module-interact v0.1.1 (リリース日未定)
+### tomk79/broccoli-module-interact v0.1.1 (2020年4月4日)
 
 - モジュールの上端に、わずかにスペースを開けるようにしたことで、上へのドロップがしやすくなった。
 - 1コンテンツ内に複数のカルーセルを配置した場合に、2つ目以降のカルーセルが動作しない不具合を修正。
