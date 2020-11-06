@@ -5,11 +5,11 @@
             "fields": {
                 "main": [
                     {
-                        "modId": "medias:interactives/carousel",
+                        "modId": "interact:interactives/carousel",
                         "fields": {
                             "loop": [
                                 {
-                                    "modId": "medias:interactives/carousel",
+                                    "modId": "interact:interactives/carousel",
                                     "fields": {
                                         "href": "",
                                         "target": "",
@@ -26,7 +26,7 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "medias:interactives/carousel",
+                                    "modId": "interact:interactives/carousel",
                                     "fields": {
                                         "href": "",
                                         "target": "",
@@ -43,7 +43,7 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "medias:interactives/carousel",
+                                    "modId": "interact:interactives/carousel",
                                     "fields": {
                                         "href": "",
                                         "target": "",
@@ -63,11 +63,11 @@
                         }
                     },
                     {
-                        "modId": "medias:interactives/accordion",
+                        "modId": "interact:interactives/accordion",
                         "fields": {
                             "loop": [
                                 {
-                                    "modId": "medias:interactives/accordion",
+                                    "modId": "interact:interactives/accordion",
                                     "fields": {
                                         "accordion-label": "アコーディオンサンプル1",
                                         "main": [
@@ -89,7 +89,7 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "medias:interactives/accordion",
+                                    "modId": "interact:interactives/accordion",
                                     "fields": {
                                         "accordion-label": "アコーディオンサンプル2",
                                         "main": [
@@ -111,7 +111,7 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "medias:interactives/accordion",
+                                    "modId": "interact:interactives/accordion",
                                     "fields": {
                                         "accordion-label": "アコーディオンサンプル3",
                                         "main": [
@@ -127,11 +127,11 @@
                                                 "dec": ""
                                             },
                                             {
-                                                "modId": "medias:interactives/accordion",
+                                                "modId": "interact:interactives/accordion",
                                                 "fields": {
                                                     "loop": [
                                                         {
-                                                            "modId": "medias:interactives/accordion",
+                                                            "modId": "interact:interactives/accordion",
                                                             "fields": {
                                                                 "accordion-label": "アコーディオンサンプル1",
                                                                 "main": [
@@ -153,7 +153,7 @@
                                                             "dec": ""
                                                         },
                                                         {
-                                                            "modId": "medias:interactives/accordion",
+                                                            "modId": "interact:interactives/accordion",
                                                             "fields": {
                                                                 "accordion-label": "アコーディオンサンプル2",
                                                                 "main": [
@@ -175,7 +175,7 @@
                                                             "dec": ""
                                                         },
                                                         {
-                                                            "modId": "medias:interactives/accordion",
+                                                            "modId": "interact:interactives/accordion",
                                                             "fields": {
                                                                 "accordion-label": "アコーディオンサンプル3",
                                                                 "main": [
@@ -209,11 +209,11 @@
                         }
                     },
                     {
-                        "modId": "medias:interactives/tabs",
+                        "modId": "interact:interactives/tabs",
                         "fields": {
                             "loop": [
                                 {
-                                    "modId": "medias:interactives/tabs",
+                                    "modId": "interact:interactives/tabs",
                                     "fields": {
                                         "tab-label": "タブ1",
                                         "main": [
@@ -235,7 +235,7 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "medias:interactives/tabs",
+                                    "modId": "interact:interactives/tabs",
                                     "fields": {
                                         "tab-label": "タブ2",
                                         "main": [
@@ -257,7 +257,7 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "medias:interactives/tabs",
+                                    "modId": "interact:interactives/tabs",
                                     "fields": {
                                         "tab-label": "タブ3",
                                         "main": [
@@ -279,7 +279,7 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "medias:interactives/tabs",
+                                    "modId": "interact:interactives/tabs",
                                     "fields": {
                                         "tab-label": "タブ4",
                                         "main": [
@@ -295,11 +295,11 @@
                                                 "dec": ""
                                             },
                                             {
-                                                "modId": "medias:interactives/tabs",
+                                                "modId": "interact:interactives/tabs",
                                                 "fields": {
                                                     "loop": [
                                                         {
-                                                            "modId": "medias:interactives/tabs",
+                                                            "modId": "interact:interactives/tabs",
                                                             "fields": {
                                                                 "tab-label": "タブ1",
                                                                 "main": [
@@ -321,7 +321,7 @@
                                                             "dec": ""
                                                         },
                                                         {
-                                                            "modId": "medias:interactives/tabs",
+                                                            "modId": "interact:interactives/tabs",
                                                             "fields": {
                                                                 "tab-label": "タブ2",
                                                                 "main": [
@@ -343,7 +343,7 @@
                                                             "dec": ""
                                                         },
                                                         {
-                                                            "modId": "medias:interactives/tabs",
+                                                            "modId": "interact:interactives/tabs",
                                                             "fields": {
                                                                 "tab-label": "タブ3",
                                                                 "main": [
@@ -365,7 +365,7 @@
                                                             "dec": ""
                                                         },
                                                         {
-                                                            "modId": "medias:interactives/tabs",
+                                                            "modId": "interact:interactives/tabs",
                                                             "fields": {
                                                                 "tab-label": "タブ4",
                                                                 "main": [
@@ -414,11 +414,11 @@
                         "dec": ""
                     },
                     {
-                        "modId": "medias:interactives/carousel",
+                        "modId": "interact:interactives/carousel",
                         "fields": {
                             "loop": [
                                 {
-                                    "modId": "medias:interactives/carousel",
+                                    "modId": "interact:interactives/carousel",
                                     "fields": {
                                         "href": "",
                                         "target": "",
@@ -435,7 +435,7 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "medias:interactives/carousel",
+                                    "modId": "interact:interactives/carousel",
                                     "fields": {
                                         "href": "",
                                         "target": "",
@@ -452,7 +452,7 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "medias:interactives/carousel",
+                                    "modId": "interact:interactives/carousel",
                                     "fields": {
                                         "href": "",
                                         "target": "",
@@ -472,11 +472,11 @@
                         }
                     },
                     {
-                        "modId": "medias:interactives/accordion",
+                        "modId": "interact:interactives/accordion",
                         "fields": {
                             "loop": [
                                 {
-                                    "modId": "medias:interactives/accordion",
+                                    "modId": "interact:interactives/accordion",
                                     "fields": {
                                         "accordion-label": "アコーディオン 2-1",
                                         "main": [
@@ -498,7 +498,7 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "medias:interactives/accordion",
+                                    "modId": "interact:interactives/accordion",
                                     "fields": {
                                         "accordion-label": "アコーディオン 2-2",
                                         "main": [
@@ -523,11 +523,11 @@
                         }
                     },
                     {
-                        "modId": "medias:interactives/tabs",
+                        "modId": "interact:interactives/tabs",
                         "fields": {
                             "loop": [
                                 {
-                                    "modId": "medias:interactives/tabs",
+                                    "modId": "interact:interactives/tabs",
                                     "fields": {
                                         "tab-label": "タブ 2-1",
                                         "main": [
@@ -549,7 +549,7 @@
                                     "dec": ""
                                 },
                                 {
-                                    "modId": "medias:interactives/tabs",
+                                    "modId": "interact:interactives/tabs",
                                     "fields": {
                                         "tab-label": "タブ 2-2",
                                         "main": [
