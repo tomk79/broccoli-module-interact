@@ -19,11 +19,9 @@
 				<div class="px2-carousel__contents tns-slider tns-carousel tns-subpixel tns-calc tns-horizontal">
 {% endif %}
 	<div class="px2-carousel__contents">
-{% for loopRow in loop %}
-    {{ loopitem_start('loop') }}
+{% for loopRow in loop %}{{ loopitem_start('loop') }}
 		<div class="px2-carousel__item">{% if loopRow.href %}<a href="{{ loopRow.href }}"{% if loopRow.target %} target="{{ loopRow.target }}"{% endif %}>{% endif %}<img src="{{ loopRow.image_src }}" alt="{{ loopRow.alt_text }}" />{% if loopRow.href %}</a>{% endif %}</div>
-    {{ loopitem_end() }}
-{% endfor %}
+{{ loopitem_end() }}{% endfor %}
 {{ appender('loop') }}
 	</div>
 {% if _ENV.mode == 'canvas' %}
