@@ -60,7 +60,9 @@
                                     "dec": ""
                                 }
                             ]
-                        }
+                        },
+                        "anchor": "",
+                        "dec": ""
                     },
                     {
                         "modId": "interact:interactives/accordion",
