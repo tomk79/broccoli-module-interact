@@ -1,8 +1,8 @@
 # Broccoli Module: Interact
 
-### tomk79/broccoli-module-interact v0.1.2 (リリース日未定)
+### tomk79/broccoli-module-interact v0.1.2 (2020年12月19日)
 
-- いくつかのモジュールの内部コードを、Twigテンプレートに移行した。
+- 各モジュールの内部コードを、Twigテンプレートに移行した。
 - TinySliderを更新。
 
 ### tomk79/broccoli-module-interact v0.1.1 (2020年4月4日)
