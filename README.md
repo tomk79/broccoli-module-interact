@@ -1,5 +1,9 @@
 # Broccoli Module: Interact
 
+### tomk79/broccoli-module-interact v0.1.3 (リリース日未定)
+
+- Broccoli v0.4 系で "タブ - Tabs" モジュールでタブのラベルがセットされない不具合を修正。
+
 ### tomk79/broccoli-module-interact v0.1.2 (2020年12月19日)
 
 - 各モジュールの内部コードを、Twigテンプレートに移行した。
