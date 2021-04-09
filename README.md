@@ -1,6 +1,6 @@
 # Broccoli Module: Interact
 
-### tomk79/broccoli-module-interact v0.1.3 (リリース日未定)
+### tomk79/broccoli-module-interact v0.1.3 (2021年4月10日)
 
 - Broccoli v0.4 系で "タブ - Tabs" モジュールでタブのラベルがセットされない不具合を修正。
 
